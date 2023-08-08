@@ -21,5 +21,3 @@ This application fetches random advice using the Advice Slip API. It demonstrate
 **Contributing**
 Contributions are welcome! If you find any issues or want to enhance the application, feel free to submit a pull request.
 
-**License**
-This project is licensed under the MIT License - see the LICENSE file for details.
