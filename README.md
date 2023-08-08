@@ -5,7 +5,7 @@ A simple Node.js application that fetches random pieces of advice using the Advi
 
 Clone this repository to your local machine using:
 
-git clone https://github.com/your-username/random-advice-generator.git
+git clone https://github.com/Sani0401/random-advice-generator.git
 
 **Install the required dependencies using npm:**
 
